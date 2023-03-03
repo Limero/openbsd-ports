@@ -1,6 +1,6 @@
 COMMENT =	open source OldSchool RuneScape client
 
-V =		2.6.1
+V =		2.6.2
 PKGNAME =	runelite-${V}
 
 MASTER_SITES =	https://github.com/runelite/launcher/releases/download/$V/
